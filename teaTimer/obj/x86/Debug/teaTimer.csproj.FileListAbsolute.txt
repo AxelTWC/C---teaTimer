@@ -1,0 +1,31 @@
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\teaTimer\bin\Debug\teaTimer.exe
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\teaTimer\bin\Debug\teaTimer.pdb
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\teaTimer\obj\x86\Debug\teaTimer.Form1.resources
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\teaTimer\obj\x86\Debug\teaTimer.Properties.Resources.resources
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\teaTimer\obj\x86\Debug\teaTimer.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\teaTimer\obj\x86\Debug\teaTimer.exe
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\teaTimer\obj\x86\Debug\teaTimer.pdb
+C:\Users\Axel Tang\documents\visual studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.exe
+C:\Users\Axel Tang\documents\visual studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.pdb
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\bin\Debug\teaTimer.exe
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\bin\Debug\teaTimer.pdb
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.Form1.resources
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.Properties.Resources.resources
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.csprojResolveAssemblyReference.cache
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.exe
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.pdb
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\bin\Debug\teaTimer.exe
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\bin\Debug\teaTimer.pdb
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.csprojResolveAssemblyReference.cache
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.Form1.resources
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.Properties.Resources.resources
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer\teaTimer\obj\x86\Debug\teaTimer.csproj.GenerateResource.Cache
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\obj\x86\Debug\teaTimer.exe
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\obj\x86\Debug\teaTimer.pdb
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\bin\Debug\teaTimer.exe
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\bin\Debug\teaTimer.pdb
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\obj\x86\Debug\teaTimer.csprojResolveAssemblyReference.cache
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\obj\x86\Debug\teaTimer.Form1.resources
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\obj\x86\Debug\teaTimer.Properties.Resources.resources
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\teaTimer-20200228T195006Z-001\teaTimer\teaTimer\obj\x86\Debug\teaTimer.csproj.GenerateResource.Cache
