@@ -1,4 +1,4 @@
-# MathQuiz with C#
+# TeaTimer with C#
 This project was made in Grade 12 using C#:
 ![image](https://github.com/AxelTWC/C---teaTimer/assets/30543699/8c86f4bc-6635-463c-b7af-0d1309a1e40b)
 
